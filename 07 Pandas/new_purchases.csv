@@ -1,0 +1,11 @@
+,customer_id,first_name,last_name,birth_date,phone,address,city,state,points,card_number
+0,1,Joe,Mutale,1986-03-28,781-932-9754,0 Saace,Nairobi,MA,2273,1.0
+1,2,Fred,Vilakati ,1986-04-13,804-427-9456, Coml,Cape,VA,947,
+2,3,Brian,Muyuda,1985-02-07,719-724-7869, Junction,Dodoma,CO,2967,
+3,4,John,Muchiri,1974-04-14,407-231-8017, Terrace,Mombasa,FL,457,
+4,5,Clemmie,Banda,1973-11-07,,5 Spohn,Kisumu,Ks,3675,
+5,6,Elka,Nyambura,1991-09-04,312-480-8498,14Drive,Kampala,IL,3073,
+6,7,Ilene,Otile,1964-08-30,615-641-4759, Crossing,Lusaka,TN,1672,
+7,8,Chirs,Brown,1993-07-17,941-527-3977, Center,Abuja,FL,205,
+8,9,Mutula,Kilonzo,1992-05-23,559-181-3744, Trail,Addis,CA,1486,
+9,10,Uhuru,Corupt,1969-10-13,404-246-3370, Avenue,Lagos,GA,796,
